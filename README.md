@@ -50,6 +50,5 @@ root
 └── Slide n
 ```
 
-![image.png](https://upload-images.jianshu.io/upload_images/2355077-16fe4b49f622e2cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ![image.png](https://upload-images.jianshu.io/upload_images/2355077-2a1ecdfca171a2e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/2355077-16fe4b49f622e2cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
