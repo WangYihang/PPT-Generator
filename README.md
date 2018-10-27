@@ -64,6 +64,7 @@ root
 ![image.png](https://upload-images.jianshu.io/upload_images/2355077-16fe4b49f622e2cd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### Acknownledgement
+Thanks for the great support of these repos:  
+
 * https://github.com/c0fec0de/anytree
 * https://github.com/scanny/python-pptx  
-Thanks for the great support of these repos above.
