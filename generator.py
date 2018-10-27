@@ -52,6 +52,7 @@ def main():
     data = open(input_file).read()
     importer = IndentedStringImporter()
     root = importer.import_(data)
+    ascii_tree(root)
     run(ppt, root)
     ppt.save(output_file)
 
