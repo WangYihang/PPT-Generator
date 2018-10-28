@@ -9,7 +9,7 @@ from anytree import LevelOrderIter
 
 def ascii_tree(tree):
     for pre, fill, node in RenderTree(tree):
-        print("%s%s" % (pre, node.name))
+        print("%s%s" % (pre, node.name.decode("utf-8")))
 
 def create_slide(ppt, nodes):
     bullet_slide_layout = ppt.slide_layouts[1]
