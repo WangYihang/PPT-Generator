@@ -8,6 +8,9 @@ anytree
 #### Installation
 ```
 pip install -r requirements.txt
+git clone https://github.com/c0fec0de/anytree
+cd anytree
+sudo python setup.py install
 ```
 
 #### Usage
