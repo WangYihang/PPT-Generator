@@ -16,7 +16,10 @@ def create_slide(ppt, nodes):
     slide = ppt.slides.add_slide(bullet_slide_layout)
     shapes = slide.shapes
     title_shape = shapes.title
-    title_shape.text = nodes[0].name
+    if nodes[0].parent.parent != None:
+        title_shape.text = "%s · %s" % (nodes[0].parent.name, nodes[0].name)
+    else:
+        title_shape.text = "%s" % (nodes[0].name)
     body_shape = slide.shapes.placeholders
     body_shape = slide.shapes.placeholders
     for i in nodes[1:]:
